@@ -7,7 +7,7 @@ These are the raw files which are used to load example data. Please contact the 
 
 ## datasets:
 
-**_Streptococcus pneumoniae_ PMEN1 data (Gubbins / BRAT NextGen)**
+[**_Streptococcus pneumoniae_ PMEN1 data (Gubbins / BRAT NextGen)**](https://github.com/jameshadfield/phandangoExampleData/tree/master/PMEN1_recombination)
 
 [Dr. Nick Croucher](mailto:n.croucher@imperial.ac.uk) and [Dr. Pekka Marttinen](mailto:pekka.marttinen@aalto.fi)
 
